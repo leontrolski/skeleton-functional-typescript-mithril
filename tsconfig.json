@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "lib": ["es2018", "dom"],
+        "target": "es6",
+        "allowJs": true
+    },
+}
